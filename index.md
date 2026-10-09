@@ -1,0 +1,1 @@
+Dutta Google Access is a private tool used by a single family for their own Google account 5auszeit@gmail.com. It lets the family's personal assistant on their own computer read email and manage calendar entries, tasks and Drive files. The app is not offered to the public. Privacy Policy: https://5auszeit-code.github.io/privacy.html - Contact: 5auszeit@gmail.com
